@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/yamheru/static/css/main.8df402a5.chunk.css",
+    "main.js": "/yamheru/static/js/main.3d807029.chunk.js",
+    "main.js.map": "/yamheru/static/js/main.3d807029.chunk.js.map",
+    "runtime-main.js": "/yamheru/static/js/runtime-main.352a942f.js",
+    "runtime-main.js.map": "/yamheru/static/js/runtime-main.352a942f.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/yamheru/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.10ecd8e4.chunk.js": "/yamheru/static/js/2.10ecd8e4.chunk.js",
+    "static/js/2.10ecd8e4.chunk.js.map": "/yamheru/static/js/2.10ecd8e4.chunk.js.map",
+    "index.html": "/yamheru/index.html",
+    "precache-manifest.c9df6d9674a117b5394e3cca0ba9d326.js": "/yamheru/precache-manifest.c9df6d9674a117b5394e3cca0ba9d326.js",
+    "service-worker.js": "/yamheru/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/yamheru/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.8df402a5.chunk.css.map": "/yamheru/static/css/main.8df402a5.chunk.css.map",
+    "static/js/2.10ecd8e4.chunk.js.LICENSE.txt": "/yamheru/static/js/2.10ecd8e4.chunk.js.LICENSE.txt",
+    "static/media/complementos.jpg": "/yamheru/static/media/complementos.41a4272e.jpg",
+    "static/media/index.css": "/yamheru/static/media/fondo.33dc0b0d.jpg",
+    "static/media/Contenido.css": "/yamheru/static/media/fondo1.dfd86288.jpg",
+    "static/media/mesa2.png": "/yamheru/static/media/mesa2.c815ee0b.png",
+    "static/media/planta1.jpg": "/yamheru/static/media/planta1.bfa8252c.jpg",
+    "static/media/ramo21.jpg": "/yamheru/static/media/ramo21.95e02083.jpg",
+    "static/media/text777.jpg": "/yamheru/static/media/text777.33abd127.jpg",
+    "static/media/text869.png": "/yamheru/static/media/text869.73e6fe3d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.352a942f.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.10ecd8e4.chunk.js",
+    "static/css/main.8df402a5.chunk.css",
+    "static/js/main.3d807029.chunk.js"
+  ]
+}
